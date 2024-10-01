@@ -425,4 +425,10 @@ resize: none;
     height: 30px;
     font-size: 15px;
 }
+@media screen and (max-width:415px) {
+
+    #searchInput{
+        width: 100px;
+    }
+}
 
